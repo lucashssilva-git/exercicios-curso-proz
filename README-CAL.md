@@ -1,0 +1,1 @@
+#Exercício da calculadora que está descrito no arquivo Exercício-calculadora.py. 
